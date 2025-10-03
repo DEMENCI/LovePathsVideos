@@ -1,3 +1,5 @@
 CH3_L8.mp4 filter=lfs diff=lfs merge=lfs -text
 CH3_L2.mp4 filter=lfs diff=lfs merge=lfs -text
 CH3_L5.mp4 filter=lfs diff=lfs merge=lfs -text
+CH3_L11.mp4 filter=lfs diff=lfs merge=lfs -text
+CH3_L13.mp4 filter=lfs diff=lfs merge=lfs -text
